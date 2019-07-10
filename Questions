@@ -1,0 +1,18 @@
+Q1. Having a function :-
+
+function People(name, age) {
+  this.name = name;
+  this.age = age;
+  
+  this.walk = function() {
+                // Do Something
+                }
+ }
+ 
+ Difference between :-
+ 
+ a. rahul = new People('rahul', 28);
+ b. People('rahul', 28);
+ 
+ 
+ TO Be Continued 
